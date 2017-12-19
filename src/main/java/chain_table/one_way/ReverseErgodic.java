@@ -2,6 +2,7 @@ package chain_table.one_way;
 
 /**
  * Created by mengfw on 2017/12/7.
+ * 非递归
  */
 public class ReverseErgodic {
     public static void main(String[] args) {
